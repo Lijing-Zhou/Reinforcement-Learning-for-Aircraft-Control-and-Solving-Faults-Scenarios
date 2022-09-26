@@ -1,4 +1,5 @@
 # Reinforcement-Learning-for-Aircraft-Control-and-Solving-Faults-Scenarios
+关键词：强化学习 无人机 控制
 甚至航空业的事故率在2008年和2019年之间也下降了36%。然而，飞行中失去
 控制仍然是导致2009年至2018年61%的飞行事故的主要原因[1]。
 因此，人们更加关注如何在一些变化的条件或极端紧急情况下保持无人驾驶飞行器（UAV）的稳定
